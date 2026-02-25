@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Faize Muhammed  Basheer</h1>
+<h3 align="center">Full Stack Developer | Fintech Systems | MERN | Microservices</h3>
 
-<!--
-**FaizeMuhammed/FaizeMuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 Currently working on fintech systems & ONDC integrations  
+💡 Passionate about building scalable backend systems  
+⚡ Strong in Next.js, Node.js, MongoDB, PostgreSQL  
+📫 Reach me at: faizemuhammedbasheer@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- React | Next.js | React Native
+- Node.js | Express.js
+- MongoDB | PostgreSQL | Redis
+- Python | Microservices
+- AWS S3 | DigitalOcean | PM2 | Nginx
+- Socket.io | JWT | ONDC | Beckn
+
+---
+
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
