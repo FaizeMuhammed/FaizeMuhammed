@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Faize Muhammed  Basheer</h1>
-<h3 align="center">Software Engineer | Fintech • ONDC • AI Automation
+# Hi, I'm Faize 👋
 
-Mutual Funds • BSE Star MF • FastAPI • Next.js • React Native</h3>
+Software Engineer | Full Stack • Fintech • AI Automation
 
----
+🚀 2 Years Experience
 
-🚀 Currently working on fintech systems & ONDC integrations  
-📫 Reach me at: faizemuhammedbasheer@gmail.com  
+- ONDC Investment & Credit Integrations
+- Mutual Funds • BSE Star MF • SIPs
+- WhatsApp AI Agents (5+ Businesses)
+- Hospital Platform (5000+ Appointments)
 
+### Tech
 
+Next.js • React Native • Node.js • FastAPI • PostgreSQL • MongoDB • Redis • OpenAI • Gemini
+
+📍 Kerala, India
