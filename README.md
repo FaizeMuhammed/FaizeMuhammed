@@ -2,7 +2,7 @@
 
 Software Engineer | Full Stack • Fintech • AI Automation
 
-🚀 2 Years Experience
+ 2 Years Experience
 
 - ONDC Investment & Credit Integrations
 - Mutual Funds • BSE Star MF • SIPs
